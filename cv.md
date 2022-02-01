@@ -7,3 +7,4 @@
 * **Telegram:** @alexei_bobrik
 * **GitHub:** [alexeibob1](https://github.com/alexeibob1)
 * **Codewars:** [alexeibob](https://www.codewars.com/users/alexeibob)
+* **Discord:** benzylpenicillin
