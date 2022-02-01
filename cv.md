@@ -8,3 +8,12 @@
 * **GitHub:** [alexeibob1](https://github.com/alexeibob1)
 * **Codewars:** [alexeibob](https://www.codewars.com/users/alexeibob)
 * **Discord:** benzylpenicillin
+
+# About me
+My passion for chemistry at school made everyone believe that I would attempt my career at medicine or science, but I decided to become a programmer. I have always been interested in creating eye-catching designs. But later I really wanted to know how to turn my design into a product.
+
+About five years ago I got a free magazine about web-design. After getting some basic knowledge from this field I started to learn more by myself. Most of all I focused on working with Photoshop and CorelDraw. 
+
+After graduating at school I went to university to become software engineer. I really like learning and creating new algorithms, solving problems that will burn out my brain, getting involved in interesting projects. 
+
+I believe, that all my personal and professional skills will help me to become a professional Frontend Developer.
