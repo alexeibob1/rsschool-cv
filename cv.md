@@ -49,3 +49,9 @@ unsigned int countBits(unsigned long long n) {
     + Information Technology Software (specialty - software engineer)
 * WayUp (free courses)
 * SoloLearn (free courses)
+
+# Languages
+* Russian (native)
+* Belarussian (native)
+* English (B2/C1 - Upper-Intermediate/Advanced according to Duolingo English Test)
+<img src="C:\Users\Compik\Downloads\certificate.png" alt="english certificate from duolingo">
