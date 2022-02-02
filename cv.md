@@ -32,7 +32,7 @@ I believe, that all my personal and professional skills will help me to become a
 *Example: The binary representation of 1234 is 10011010010, so the function should return 5 in this case*
 
 ```
-unsigned int countBits(unsigned long long n){
+unsigned int countBits(unsigned long long n) {
   int ones = 0;
   while (n != 0) {
     if ((n % 2) == 1) {
@@ -43,3 +43,9 @@ unsigned int countBits(unsigned long long n){
   return ones;
 }
 ```
+
+# Education
+* Belarusian State University of Informatics and Radioelectronics
++ Information Technology Software (specialty - software engineer)
+* WayUp (free courses)
+* SoloLearn (free courses)
