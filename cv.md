@@ -53,5 +53,4 @@ unsigned int countBits(unsigned long long n) {
 # Languages
 * Russian (native)
 * Belarussian (native)
-* English (B2/C1 - Upper-Intermediate/Advanced according to Duolingo English Test)
-<img src="C:\Users\Compik\Downloads\certificate.png" alt="english certificate from duolingo">
+* English (B2/C1 - Upper-Intermediate/Advanced according to [Duolingo English Test](https://certs.duolingo.com/4q85vg3t))
