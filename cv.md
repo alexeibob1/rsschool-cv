@@ -17,3 +17,10 @@ About five years ago I got a free magazine about web-design. After getting some 
 After graduating at school I went to university to become software engineer. I really like learning and creating new algorithms, solving problems that will burn out my brain, getting involved in interesting projects. 
 
 I believe, that all my personal and professional skills will help me to become a professional Frontend Developer.
+
+# Skills 
+
+* Git, GitHub
+* Photoshop, Figma, CorelDraw
+* HTML5, CSS3
+* C++, Javascript (Basics), Delphi
