@@ -46,6 +46,6 @@ unsigned int countBits(unsigned long long n) {
 
 # Education
 * Belarusian State University of Informatics and Radioelectronics
-+ Information Technology Software (specialty - software engineer)
+    + Information Technology Software (specialty - software engineer)
 * WayUp (free courses)
 * SoloLearn (free courses)
